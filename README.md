@@ -1,2 +1,4 @@
 # Protein-sequence-generation
-Advanced Python project, generation of new stable protein sequences
+Проект "Простая условная генерация белковых последовательностей"
+работу выполнили Амиев Артур, Василенко Вадим, Гусев Михаил и Меркулов Григорий группа Б06-303
+
